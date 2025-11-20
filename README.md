@@ -12,7 +12,7 @@ This Android application allows users to register for clubs, manage memberships,
 
 ## Installation
 1. Clone the repository:
-   git clone https://github.com/your-username/ClubRegistration.git
+   git clone https://github.com/hananadanweye2-debug/ClubRegistration.git
 2. Open the project in Android Studio.
 3. Build and run on an emulator or Android device.
 
