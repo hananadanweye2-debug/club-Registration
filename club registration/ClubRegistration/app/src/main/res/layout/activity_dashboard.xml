@@ -1,0 +1,40 @@
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:orientation="vertical"
+    android:gravity="center"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:padding="24dp">
+
+    
+    <EditText
+        android:id="@+id/clubName"
+        android:hint="Club Name"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:textSize="25sp"/>
+
+    <EditText
+        android:id="@+id/studentName"
+        android:hint="Your Name"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:textSize="25sp"/>
+
+    <Button
+        android:id="@+id/registerClubBtn"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="Register"
+        android:textSize="25sp"
+        android:padding="20dp"/>
+    <Button
+        android:id="@+id/viewClubsBtn"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="View Registered Clubs"
+        android:textSize="25sp"
+        android:padding="20dp"/>
+
+</LinearLayout>
+
+    
